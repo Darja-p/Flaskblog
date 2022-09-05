@@ -1,3 +1,4 @@
+gunicorn==20.1.0
 async-generator==1.10
 bs4==0.0.1
 charset-normalizer==2.0.12
